@@ -27,6 +27,7 @@
     "p-queue": "^6.3.0",
     "puppeteer": "^2.1.1",
     "single-line-log": "^1.1.2",
+    "statistics.js": "^1.0.0",
     "uniqid": "^5.2.0"
   }
 }

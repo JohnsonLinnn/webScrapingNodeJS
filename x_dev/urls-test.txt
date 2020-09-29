@@ -1,2 +1,2 @@
 # test web pages
-ebay.com/sch/i.html?_from=R40&_nkw=iphone&_sacat=0&Model=Apple%2520iPhone%2520X&Storage%2520Capacity=64%2520GB&_dcat=9355&LH_ItemCondition=3000&rt=nc&LH_BIN=1
+ebay.com/sch/i.html?_from=R40&_nkw=iphone&_sacat=0&Model=Apple%2520iPhone%2520X&LH_ItemCondition=3000&LH_BIN=1&rt=nc&_oaa=1&_dcat=9355
