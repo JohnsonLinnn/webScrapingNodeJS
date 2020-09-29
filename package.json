@@ -1,0 +1,32 @@
+{
+  "name": "@chcaa/web-extractor",
+  "version": "0.9.1",
+  "description": "Extract DOM content and take screenshots based on user defined rules",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centre-for-humanities-computing/web-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "/src/**"
+  ],
+  "dependencies": {
+    "await-lock": "^2.0.1",
+    "commander": "^4.1.1",
+    "delay": "^4.3.0",
+    "filenamify-url": "^2.1.1",
+    "fkill": "^6.2.0",
+    "line-reader": "latest",
+    "lodash": "^4.17.15",
+    "p-queue": "^6.3.0",
+    "puppeteer": "^2.1.1",
+    "single-line-log": "^1.1.2",
+    "uniqid": "^5.2.0"
+  }
+}
