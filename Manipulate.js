@@ -15,6 +15,7 @@ for(let i =0;i<numbers.length;i++){
     number =parseFloat(number);
     prices[i]=number
 }
+//here comes the math that nobody loves 
 var stats = new Statistics(prices)
 var mean = stats.arithmeticMean(prices);
 var median = stats.median(prices);

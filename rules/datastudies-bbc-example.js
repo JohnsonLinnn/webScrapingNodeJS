@@ -13,7 +13,7 @@ module.exports = {
         extract: function() { // optional
 
             let data = []
-            let allHeadlines = document.querySelectorAll('.s-item__price');
+            let allHeadlines = document.querySelectorAll('.simple noWrap listingColumn');
             
             for (headline of allHeadlines) {
                 let innerText = headline.innerText;

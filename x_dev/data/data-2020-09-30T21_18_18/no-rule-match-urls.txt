@@ -1,2 +1,1 @@
-# test web pages
 dba.dk/soeg/?soeg=iphone
