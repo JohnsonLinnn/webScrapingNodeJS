@@ -13,9 +13,10 @@ module.exports = {
         extract: function() { // optional
 
             let data = []
-            let allHeadlines = document.querySelectorAll('.simple noWrap listingColumn');
+            let allHeadlines = document.querySelectorAll("tr");
             
             for (headline of allHeadlines) {
+                console.log(headline)
                 let innerText = headline.innerText;
                 data.push(innerText)
             }
